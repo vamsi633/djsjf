@@ -202,6 +202,39 @@ export const myProjects = [
 
     ],
   },
+    {
+    title: 'Nike Store - Frontend Project',
+    desc: 'This project showcases my skills in developing a dynamic and engaging front-end for an e-commerce platform inspired by Nike’s branding. Using React, CSS, and JavaScript, I created a visually striking and user-friendly interface that highlights product offerings and enhances the shopping experience. The website features a responsive design, intuitive navigation, and interactive elements, all aimed at capturing the energetic spirit of the Nike brand.',
+    subdesc:
+      '',
+    href: 'https://nike-sneakers-store.netlify.app',
+    texture: '/textures/project/project1.mp4',
+    logo: '/assets/project-logo1.png',
+    logoStyle: {
+      backgroundColor: '#2A1816',
+      border: '0.2px solid #36201D',
+      boxShadow: '0px 0px 60px 0px #AA3C304D',
+    },
+    spotlight: '/assets/spotlight1.png',
+    tags: [
+      {
+        id: 1,
+        name: 'React.js',
+        path: '/assets/react.svg',
+      },
+      {
+        id: 2,
+        name: 'TailwindCSS',
+        path: 'assets/tailwindcss.png',
+      },
+      {
+        id: 3,
+        name: 'TypeScript',
+        path: '/assets/typescript.png',
+      },
+
+    ],
+  },
 ];
 
 export const calculateSizes = (isSmall, isMobile, isTablet) => {
