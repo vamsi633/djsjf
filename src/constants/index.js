@@ -57,12 +57,12 @@ export const clientReviews = [
 ];
 
 export const myProjects = [
-  {
-    title: 'Podcastr - AI Podcast Platform',
+{
+    title: 'WebSite Summarizer Using Rapid API and React',
     desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
     subdesc:
-      'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+      'This website helps users to get know what any website is about, When you provide the link of any website it will summarize what is that particlar web page is about.',
+    href: 'https://web-context-webapplication.vercel.app',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -87,11 +87,7 @@ export const myProjects = [
         name: 'TypeScript',
         path: '/assets/typescript.png',
       },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
+
     ],
   },
   {
