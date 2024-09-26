@@ -94,45 +94,7 @@ export const myProjects = [
       },
     ],
   },
-  {
-    title: 'Animated Apple Iphone 3D Website',
-    desc: 'This project showcases my ability to create a sleek, responsive front-end design inspired by Apples aesthetic. Utilizing React, Tailwind CSS, and JavaScript, I crafted an intuitive user interface that emphasizes simplicity and elegance. The website features smooth animations, a clean layout, and seamless navigation, all optimized for both desktop and mobile devices. This project not only highlights my technical skills but also my attention to detail and commitment to delivering a visually appealing user experience.',
-    subdesc:
-      'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-    href: 'https://iphoneapp-ewe.netlify.app',
-    texture: '/textures/project/project3.mp4',
-    logo: '/assets/project-logo3.png',
-    logoStyle: {
-      backgroundColor: '#60f5a1',
-      background:
-        'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
-      border: '0.2px solid rgba(208, 213, 221, 1)',
-      boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
-    },
-    spotlight: '/assets/spotlight3.png',
-    tags: [
-      {
-        id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
-      },
-      {
-        id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
-      },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
-    ],
-  },
+ 
   {
     title: 'Horizon - Online Banking Platform',
     desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
