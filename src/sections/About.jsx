@@ -25,8 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Vamsikrishna Nouluri</p>
               <p className="grid-subtext">
-                With 12 years of experience, I have honed my skills in both frontend and backend dev, creating dynamic
-                and responsive websites.
+                Currently pursuing my Masters in computer science at Santa Clara University. Building web applications using different stacks and deploying them to show my skills.
               </p>
             </div>
           </div>
@@ -63,7 +62,7 @@ const About = () => {
             </div>
             <div>
               <p className="grid-headtext">I’m very flexible with time zone communications & locations</p>
-              <p className="grid-subtext">I&apos;m based in Rjieka, Croatia and open to remote work worldwide.</p>
+              <p className="grid-subtext">I&apos;m based in California, USA and open to remote work worldwide.</p>
               <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
             </div>
           </div>
