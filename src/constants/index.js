@@ -96,11 +96,11 @@ export const myProjects = [
   },
  
   {
-    title: 'Horizon - Online Banking Platform',
-    desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+    title: 'Animated Apple Iphone 3D Website',
+    desc: 'Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..',
     subdesc:
-      'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+      'This project showcases my ability to create a sleek, responsive front-end design inspired by Apples aesthetic. Utilizing React, Tailwind CSS, and JavaScript, I crafted an intuitive user interface that emphasizes simplicity and elegance. The website features smooth animations, a clean layout, and seamless navigation, all optimized for both desktop and mobile devices. This project not only highlights my technical skills but also my attention to detail and commitment to delivering a visually appealing user experience.',
+    href: 'https://iphoneapp-ewe.netlify.app',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
