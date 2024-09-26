@@ -57,39 +57,6 @@ export const clientReviews = [
 ];
 
 export const myProjects = [
-{
-    title: 'WebSite Summarizer Using Rapid API and React',
-    desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
-    subdesc:
-      'This website helps users to get know what any website is about, When you provide the link of any website it will summarize what is that particlar web page is about.',
-    href: 'https://web-context-webapplication.vercel.app',
-    texture: '/textures/project/project1.mp4',
-    logo: '/assets/project-logo1.png',
-    logoStyle: {
-      backgroundColor: '#2A1816',
-      border: '0.2px solid #36201D',
-      boxShadow: '0px 0px 60px 0px #AA3C304D',
-    },
-    spotlight: '/assets/spotlight1.png',
-    tags: [
-      {
-        id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
-      },
-      {
-        id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
-      },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-
-    ],
-  },
   {
     title: 'LiveDoc - Real-Time Google Docs Clone',
     desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
@@ -238,6 +205,39 @@ export const myProjects = [
         name: 'Framer Motion',
         path: '/assets/framer.png',
       },
+    ],
+  },
+  {
+    title: 'WebSite Summarizer Using Rapid API and React',
+    desc: '',
+    subdesc:
+      'This website helps users to get know what any website is about, When you provide the link of any website it will summarize what is that particlar web page is about.',
+    href: 'https://web-context-webapplication.vercel.app',
+    texture: '/textures/project/project1.mp4',
+    logo: '/assets/project-logo1.png',
+    logoStyle: {
+      backgroundColor: '#2A1816',
+      border: '0.2px solid #36201D',
+      boxShadow: '0px 0px 60px 0px #AA3C304D',
+    },
+    spotlight: '/assets/spotlight1.png',
+    tags: [
+      {
+        id: 1,
+        name: 'React.js',
+        path: '/assets/react.svg',
+      },
+      {
+        id: 2,
+        name: 'TailwindCSS',
+        path: 'assets/tailwindcss.png',
+      },
+      {
+        id: 3,
+        name: 'TypeScript',
+        path: '/assets/typescript.png',
+      },
+
     ],
   },
 ];
