@@ -98,7 +98,7 @@ export const myProjects = [
     title: 'Animated Apple Iphone 3D Website',
     desc: 'This project showcases my ability to create a sleek, responsive front-end design inspired by Apples aesthetic. Utilizing React, Tailwind CSS, and JavaScript, I crafted an intuitive user interface that emphasizes simplicity and elegance. The website features smooth animations, a clean layout, and seamless navigation, all optimized for both desktop and mobile devices. This project not only highlights my technical skills but also my attention to detail and commitment to delivering a visually appealing user experience.',
     subdesc:
-      '',
+      'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
     href: 'https://iphoneapp-ewe.netlify.app',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.png',
