@@ -18,6 +18,11 @@ const Footer = () => {
             <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" />
           </a>
         </div>
+         <div className="social-icon">
+          <a href="https://x.com/vamsi_nouluri?t=VkCw00mhebnzCKkrzEBSAg&s=09" className="w-fit">
+            <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" />
+          </a>
+        </div>
       </div>
 
       <p className="text-white-500">© 2024 Vamsikrishna Nouluri. All rights reserved.</p>
