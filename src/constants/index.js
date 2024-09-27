@@ -208,7 +208,7 @@ export const myProjects = [
     subdesc:
       '',
     href: 'https://nike-sneakers-store.netlify.app',
-    texture: '/textures/project/project1.mp4',
+    texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
       backgroundColor: '#2A1816',
